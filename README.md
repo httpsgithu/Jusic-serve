@@ -1,13 +1,15 @@
-***此房间版本后续不再维护，请移驾至多房间版[Jusic-serve-houses](https://github.com/JumpAlang/Jusic-Serve-Houses)***
+## 前端使用EdgeOne 全球加速
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https%3A%2F%2Fgithub.com%2FJumpAlang%2FJusic-serve%2Ftree%2Fmaster%2Fsrc%2Fmain%2Fresources%2Fstatic&root-directory=src%2Fmain%2Fresources&output-directory=.)
 
-> 热烈庆祝一起听歌吧微信小程序上架成功，搜索：***灵魂自习室***
+
+> 热烈庆祝一起听歌吧微信小程序上架成功，搜索：***歌单日记本***
 
 
 > 鼓励大家自建一起听歌吧服务，多房间版本有提供docker镜像可一键部署
 
-> 一起听歌吧官方所使用服务器配置,趁双11新用户1年只要84元（建议买3年）：[阿里云ecs_t5_突发型](https://www.aliyun.com/minisite/goods?userCode=ze4tzlf9&share_source=copy_link)
 > 趁双11腾讯云新用户1年只要88元（建设买3年）：[腾讯云标准型S4](https://cloud.tencent.com/act/cps/redirect?redirect=10140&cps_key=52c40793a9f078023fbc4d27eee65032&from=activity)
 
+> 一起听歌吧官方所使用服务器配置,趁双11新用户1年只要84元（建议买3年）：[阿里云ecs_t5_突发型](https://www.aliyun.com/minisite/goods?userCode=ze4tzlf9&share_source=copy_link)
 
 > 目前服务器配置比较弱鸡，经常炸机，欢迎大佬赞助。mail to me .
 
@@ -25,6 +27,8 @@
 后端: 本项目
 
 前端: [Jusic-ui](https://github.com/JumpAlang/Jusic-ui)
+***此房间版本后续不再维护，请移驾至多房间版[Jusic-serve-houses](https://github.com/JumpAlang/Jusic-Serve-Houses)***
+
 
 ## 安装
 
